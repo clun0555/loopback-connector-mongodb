@@ -40,9 +40,9 @@
     "url": "https://github.com/strongloop/loopback-connector-mongodb/issues"
   },
   "homepage": "https://github.com/strongloop/loopback-connector-mongodb",
-  "_id": "imt-loopback-connector-mongodb@1.8.1",
+  "_id": "loopback-connector-mongodb@1.8.1",
   "_shasum": "2d43d5f10636ca9fb14f3a6e0b67e759aea8a7c9",
-  "_from": "imt-loopback-connector-mongodb@>=1.8.0 <1.9.0",
+  "_from": "loopback-connector-mongodb@>=1.8.0 <1.9.0",
   "_npmVersion": "1.4.28",
   "_npmUser": {
     "name": "rfeng",
