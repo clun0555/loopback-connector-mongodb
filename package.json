@@ -1,6 +1,6 @@
 {
-  "name": "imt-loopback-connector-mongodb",
-  "version": "1.8.1",
+  "name": "loopback-connector-mongodb",
+  "version": "1.8.0",
   "description": "LoopBack MongoDB Connector",
   "keywords": [
     "StrongLoop",
